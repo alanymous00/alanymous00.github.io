@@ -9,7 +9,7 @@
 }
 @media screen and (max-width: 600px) {
     .p-profil img{
-        width: 70%;
+        /* width: 70%; */
     }
 }
 
